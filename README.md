@@ -2,7 +2,7 @@
 
 A simple to-do list built with React and Redux for learning purposes
 
-###Setup
+### Setup
 
 Run\
 `npm i` to install all dependencies\
