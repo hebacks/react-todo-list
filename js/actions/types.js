@@ -1,0 +1,3 @@
+export const ADD_TODO = 'ADD_TODO';
+export const TOGGLE_COMPLETION = 'TOGGLE_COMPLETION';
+export const CHANGE_FILTER = 'CHANGE_FILTER';
